@@ -1,4 +1,4 @@
 - 👋 Hi, I’m ANEES_UR_REHMAN
 - 👀 I'm Noob and a professional copy cat.
-- 🌱 I’m currently learning how to copy anothers projects. LOL
+- 🌱 I’m currently learning how to copy others projects. LOL
 - 💞️ I’m looking to collaborate on MERN
