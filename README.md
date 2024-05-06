@@ -124,11 +124,3 @@ I specialize in building robust frontend and backend that do all the remarkable 
 <img src="https://komarev.com/ghpvc/?username=anees-tech&&style=flat-square" align="center" />
 </div>  
   
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
